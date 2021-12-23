@@ -20,8 +20,6 @@ Requisites:
         - The battlefield should only be reprinted/redrawn if a player makes a move.
         - Each character should look for a possible target and attack it when this is viable and if not, move closer into attack range.
         - Each candidate must also implement one of the following extra features in the application, to be selected depending on their month of birth.
- Jan~Feb: Add more characters and divide them into different teams. The game should show clearly what occurs on each turn.;
-	- More characters into the two existing teams? More characters into new teams?
 
         Please, document EVERY change you make on the code. Bear in mind we are going to look into how you're able to optimize, organize and refactor.
         
